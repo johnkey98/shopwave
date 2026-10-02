@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Wireless Headphones",
+    "description": "Over-ear Bluetooth 5.3 headphones with active noise cancellation, 40h battery and multipoint pairing.",
+    "price": 189.0,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+    "stock": 34,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "name": "Nimbus Mechanical Keyboard",
+    "description": "75% hot-swappable mechanical keyboard with gasket mount, PBT keycaps and south-facing RGB.",
+    "price": 139.0,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+    "stock": 52,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Lumen Smart Lamp Pro",
+    "description": "Ambient smart lamp with 16M colors, app control, scheduling and HomeKit / Google Home support.",
+    "price": 59.5,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&q=80",
+    "stock": 88,
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Trailfox Running Shoes",
+    "description": "Lightweight trail running shoes with carbon plate, breathable mesh and all-terrain grip.",
+    "price": 129.0,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&q=80",
+    "stock": 41,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Vertex Ultrawide Monitor",
+    "description": "34-inch curved QHD ultrawide, 144Hz, 1ms, USB-C with 90W power delivery for single-cable setups.",
+    "price": 599.0,
+    "category": "Displays",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&q=80",
+    "stock": 9,
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Pulse Fitness Tracker",
+    "description": "Slim AMOLED fitness band with SpO2, sleep scoring, 14-day battery and 30+ sport modes.",
+    "price": 79.0,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=600&q=80",
+    "stock": 120,
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Terra Canvas Backpack",
+    "description": "Water-resistant 22L commuter backpack with padded 16\" laptop sleeve and hidden RFID pocket.",
+    "price": 64.0,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&q=80",
+    "stock": 73,
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Brew Master Espresso Machine",
+    "description": "15-bar semi-automatic espresso machine with PID temperature control and steam wand.",
+    "price": 349.0,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=600&q=80",
+    "stock": 15,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Orbit Wireless Earbuds",
+    "description": "True wireless earbuds with adaptive ANC, wireless charging case and IPX5 water resistance.",
+    "price": 99.0,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80",
+    "stock": 64,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Zenith Desk Organizer",
+    "description": "Minimal walnut desk organizer with cable routing, phone stand and drawer for small gear.",
+    "price": 42.0,
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?w=600&q=80",
+    "stock": 0,
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "Flux Fast Charger 100W GaN",
+    "description": "4-port GaN III charger with smart power distribution — charges a laptop and 3 devices at once.",
+    "price": 54.9,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&q=80",
+    "stock": 210,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Summit Water Bottle 1L",
+    "description": "Double-wall vacuum insulated stainless bottle that keeps drinks cold 24h / hot 12h.",
+    "price": 28.0,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&q=80",
+    "stock": 300,
+    "rating": 4.8
+  }
+]
